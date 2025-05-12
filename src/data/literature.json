@@ -1,62 +1,102 @@
 [
-    {
-        "title": "A Review of Password-less User Authentication Schemes",
-        "authors": [
-            "Tunde Oduguwa",
-            "Abdullahi Arabo"
-        ],
-        "year": 2023,
-        "doi": "10.48550/arXiv.2312.02845",
-        "url": "https://arxiv.org/abs/2312.02845",
-        "keywords": [
-            "review",
-            "password-less",
-            "user",
-            "authentication",
-            "schemes"
-        ],
-        "type": "article"
-    },
-    {
-        "title": "FID02 the Rescue? Platform vs. Roaming Authentication on Smartphones",
-        "authors": [
-            "Leon W\u00fcefrsching",
-            "Florentin Putz",
-            "Steffen Haesler",
-            "Matthias Hollick"
-        ],
-        "year": 2023,
-        "doi": "10.1145/3544548.3580993",
-        "url": "https://doi.org/10.1145/3544548.3580993",
-        "keywords": [
-            "fido2",
-            "rescue",
-            "platform",
-            "roaming",
-            "authentication",
-            "smartphones"
-        ],
-        "type": "article"
-    },
-    {
-        "title": "Biometric Multi-Factor Authentication: On the Usability of the FingerPIN Scheme",
-        "authors": [
-            "Emanuela Marasco",
-            "Massimiliano Albanese",
-            "Venkata Vamsi Rani",
-            "Anudeep Vuriti",
-            "Sumanth Sai Sriram"
-        ],
-        "year": 2022,
-        "doi": "10.1002/cpy2.261",
-        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/cpy2.261",
-        "keywords": [
-            "biometric",
-            "multi-factor",
-            "authentication",
-            "usability",
-            "fingerpin"
-        ],
-        "type": "article"
-    }
+  {
+    "title": "A Review of Password-less User Authentication Schemes",
+    "authors": ["Tunde Oduguwa", "Abdullahi Arabo"],
+    "year": 2023,
+    "venue": "arXiv",
+    "doi": "10.48550/arXiv.2312.02845",
+    "tags": ["review", "password-less", "authentication"],
+    "abstract": "This article reviews current approaches to password-less user authentication schemes.",
+    "pdf": "https://arxiv.org/pdf/2312.02845.pdf"
+  },
+  {
+    "title": "FIDO2 the Rescue? Platform vs. Roaming Authentication on Smartphones",
+    "authors": ["Leon Würsching", "Florentin Putz", "Steffen Haesler", "Matthias Hollick"],
+    "year": 2023,
+    "venue": "ACM CHI Conference",
+    "doi": "10.1145/3544548.3580993",
+    "tags": ["FIDO2", "authentication", "smartphones"],
+    "abstract": "This study compares FIDO2 platform and roaming authentication methods on smartphones.",
+    "pdf": "https://doi.org/10.1145/3544548.3580993"
+  },
+  {
+    "title": "Biometric Multi-Factor Authentication: On the Usability of the FingerPIN Scheme",
+    "authors": ["Emanuela Marasco", "Massimiliano Albanese", "Venkata Vamsi Ram", "Anudeep Vurity", "Sumanth Sai Sriram"],
+    "year": 2022,
+    "venue": "Wiley Computing in Practice",
+    "doi": "10.1002/spy2.261",
+    "tags": ["biometric", "multi-factor", "usability", "fingerpin"],
+    "abstract": "This paper evaluates the usability of the FingerPIN biometric MFA scheme.",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/spy2.261"
+  },
+  {
+    "title": "Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study",
+    "authors": ["Michal Kepkowski", "Maciej Machulak", "Ian Wood", "Dali Kaafar"],
+    "year": 2023,
+    "venue": "arXiv",
+    "doi": "10.48550/arXiv.2308.08096",
+    "tags": ["passwordless", "usability", "FIDO2", "enterprise"],
+    "abstract": "Usability study exploring FIDO2 adoption in enterprise environments.",
+    "pdf": "https://arxiv.org/pdf/2308.08096.pdf"
+  },
+  {
+    "title": "Multi-Factor Authentication: A User Experience Study",
+    "authors": ["Shagufta Baseer", "K. S. Charumathi"],
+    "year": 2024,
+    "venue": "SSRN",
+    "doi": "10.2139/ssrn.4840295",
+    "tags": ["multi-factor authentication", "user experience"],
+    "abstract": "This study examines user experiences with different MFA methods.",
+    "pdf": "https://ssrn.com/abstract=4840295"
+  },
+  {
+    "title": "A Comparative Study of Passwordless Authentication",
+    "authors": ["Abhishek Prasad"],
+    "year": 2025,
+    "venue": "TechRxiv",
+    "doi": "10.36227/techrxiv.171560547.71979752/v1",
+    "tags": ["passwordless", "comparison"],
+    "abstract": "Comparison of various passwordless authentication mechanisms and their usability.",
+    "pdf": "https://doi.org/10.36227/techrxiv.171560547.71979752/v1"
+  },
+  {
+    "title": "The Utility of Behavioral Biometrics in User Authentication and Demographic Characteristic Detection: A Scoping Review",
+    "authors": ["O. L. Finnegan", "J. W. White III", "B. Armstrong", "E. L. Adams", "S. Burkart", "M. W. Beets", "S. Nelakuditi", "E. A. Willis", "L. von Klinggraeff", "H. Parker", "M. Bastyr", "X. Zhu", "Z. Zhong", "R. G. Weaver"],
+    "year": 2024,
+    "venue": "Systematic Reviews",
+    "doi": "10.1186/s13643-024-02451-1",
+    "tags": ["biometric", "behavioral", "authentication", "demographics"],
+    "abstract": "Scoping review on behavioral biometrics for user authentication and demographic analysis.",
+    "pdf": "https://doi.org/10.1186/s13643-024-02451-1"
+  },
+  {
+    "title": "Comprehensive Survey: Biometric User Authentication Application, Evaluation, and Discussion",
+    "authors": ["Reem Alrawili", "Ali Abdullah S. AlQahtani", "Muhammad Khurram Khan"],
+    "year": 2024,
+    "venue": "Unpublished",
+    "doi": "Unavailable",
+    "tags": ["biometric", "survey", "authentication"],
+    "abstract": "Survey of biometric user authentication approaches and evaluation techniques.",
+    "pdf": "#"
+  },
+  {
+    "title": "On the Usability of Next-Generation Authentication: A Study on Eye Movement and Brainwave-based Mechanisms",
+    "authors": ["Matin Fallahi", "Patricia Arias-Cabarcos", "Thorsten Strufe"],
+    "year": 2024,
+    "venue": "arXiv",
+    "doi": "10.48550/arXiv.2402.15388",
+    "tags": ["eye-tracking", "brainwave", "usability", "authentication"],
+    "abstract": "Explores novel biometric authentication mechanisms using eye and brainwave data.",
+    "pdf": "https://arxiv.org/pdf/2402.15388.pdf"
+  },
+  {
+    "title": "Understanding User Perspectives on Biometric Technology",
+    "authors": ["Alexander P. Pons", "Peter Polak"],
+    "year": 2008,
+    "venue": "ACM SIGMIS",
+    "doi": "10.1145/1378727.1389971",
+    "tags": ["biometric", "user perception", "technology acceptance"],
+    "abstract": "Analyzes user attitudes toward biometric authentication technologies.",
+    "pdf": "https://doi.org/10.1145/1378727.1389971"
+  }
 ]
