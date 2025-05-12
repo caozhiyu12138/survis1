@@ -1,0 +1,62 @@
+[
+    {
+        "title": "A Review of Password-less User Authentication Schemes",
+        "authors": [
+            "Tunde Oduguwa",
+            "Abdullahi Arabo"
+        ],
+        "year": 2023,
+        "doi": "10.48550/arXiv.2312.02845",
+        "url": "https://arxiv.org/abs/2312.02845",
+        "keywords": [
+            "review",
+            "password-less",
+            "user",
+            "authentication",
+            "schemes"
+        ],
+        "type": "article"
+    },
+    {
+        "title": "FID02 the Rescue? Platform vs. Roaming Authentication on Smartphones",
+        "authors": [
+            "Leon W\u00fcefrsching",
+            "Florentin Putz",
+            "Steffen Haesler",
+            "Matthias Hollick"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3544548.3580993",
+        "url": "https://doi.org/10.1145/3544548.3580993",
+        "keywords": [
+            "fido2",
+            "rescue",
+            "platform",
+            "roaming",
+            "authentication",
+            "smartphones"
+        ],
+        "type": "article"
+    },
+    {
+        "title": "Biometric Multi-Factor Authentication: On the Usability of the FingerPIN Scheme",
+        "authors": [
+            "Emanuela Marasco",
+            "Massimiliano Albanese",
+            "Venkata Vamsi Rani",
+            "Anudeep Vuriti",
+            "Sumanth Sai Sriram"
+        ],
+        "year": 2022,
+        "doi": "10.1002/cpy2.261",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/cpy2.261",
+        "keywords": [
+            "biometric",
+            "multi-factor",
+            "authentication",
+            "usability",
+            "fingerpin"
+        ],
+        "type": "article"
+    }
+]
